@@ -10,6 +10,17 @@ description: 'Tipp24 is a German consumer online-lottery brand — a business-to
   Evangelist enrichment pipeline, which confirmed the absence of an API surface and captured the domain
   security posture of the brand.'
 url: https://raw.githubusercontent.com/api-evangelist/tipp24/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
