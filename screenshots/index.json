@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "tipp24",
+    "captured_at": "2026-10-11T193303",
+    "source_url": "https://www.tipp24.de/",
+    "source_type": "Website",
+    "file": "tipp24-2026-10-11T193303.png",
+    "bytes": 231661,
+    "capture": "playwright-local"
+  }
+]
